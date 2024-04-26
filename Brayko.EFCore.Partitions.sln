@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brayko.EFCore.Partitions.PostgreSql", "src\Brayko.EFCore.Partitions.PostgreSql\Brayko.EFCore.Partitions.PostgreSql.csproj", "{BC30A126-3158-42C8-8A52-21241FE099DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brayko.EFCore.Partitions.PostgreSql.Tests", "Brayko.EFCore.Partitions.PostgreSql.Tests\Brayko.EFCore.Partitions.PostgreSql.Tests.csproj", "{6FF9682C-C723-4111-B847-08DAE53F3550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{10E3AEEB-37B5-412B-AE9C-0EBE1076774E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC30A126-3158-42C8-8A52-21241FE099DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC30A126-3158-42C8-8A52-21241FE099DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC30A126-3158-42C8-8A52-21241FE099DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC30A126-3158-42C8-8A52-21241FE099DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF9682C-C723-4111-B847-08DAE53F3550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF9682C-C723-4111-B847-08DAE53F3550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF9682C-C723-4111-B847-08DAE53F3550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF9682C-C723-4111-B847-08DAE53F3550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E3AEEB-37B5-412B-AE9C-0EBE1076774E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E3AEEB-37B5-412B-AE9C-0EBE1076774E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E3AEEB-37B5-412B-AE9C-0EBE1076774E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E3AEEB-37B5-412B-AE9C-0EBE1076774E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
