@@ -11,7 +11,7 @@ namespace Brayko.EFCore.Partitions.PostgreSql.Extensions;
 
 public static class DbContextOptionsBuilderExtensions
 {
-    public static DbContextOptionsBuilder UsePartitions(
+    public static DbContextOptionsBuilder UseNpgsqlPartitions(
         this DbContextOptionsBuilder optionsBuilder)
     {
         return optionsBuilder
